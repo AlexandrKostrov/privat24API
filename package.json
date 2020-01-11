@@ -1,0 +1,11 @@
+{
+  "name": "privat",
+  "version": "1.0.0",
+  "description": "npm package for privat24 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elwish_js",
+  "license": "ISC"
+}
